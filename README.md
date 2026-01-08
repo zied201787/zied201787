@@ -1,13 +1,40 @@
 <h1 align="center">Hi 👋, I'm Zied Daif</h1>
-<h3 align="center">Computer Science Engineer</h3>
+<h3 align="center">Computer Science Engineer | Cyber Security & AI Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Engineer with strong foundations in software development and AI
-- 💡 Interested in Machine Learning, Deep Learning, and Systems Programming
-- 🔧 Comfortable working in Linux environments
+- 🎓 Computer Science Engineer with strong theoretical and practical background
+- 🔐 Passionate about **Cyber Security** and **Capture The Flag (CTF)** challenges
+- 🤖 Interested in **Machine Learning** and **Deep Learning**
+- 💻 Enjoy low-level programming and system-level problem solving
+- 🐧 Comfortable working in **Linux environments**
 - 📫 Reach me at **zied.daif@ensi-uma.tn**
+
+---
+
+### 🧠 What I Know
+- **Programming:** C, C++, Java, Python, PHP  
+- **AI & ML:** Neural Networks, PyTorch, TensorFlow  
+- **Cyber Security:**  
+  - CTF problem solving (Reverse, Crypto, Web basics)  
+  - Linux security fundamentals  
+  - Understanding of vulnerabilities and exploitation concepts  
+- **Web & Backend:** Flask, PHP  
+- **Databases:** Oracle  
+- **Tools & DevOps:** Git, Linux, Bash scripting  
+
+---
+
+### 🏴‍☠️ Cyber Security & CTF
+- Solving **CTF challenges** to improve:
+  - Logical thinking
+  - Reverse engineering skills
+  - Secure coding mindset
+- Interested in:
+  - Vulnerability analysis  
+  - Exploit development (fundamentals)
+  - Web security concepts
 
 ---
 
@@ -25,39 +52,26 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
 
 ---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zieddaif&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zieddaif&theme=dark"/>
+</p>

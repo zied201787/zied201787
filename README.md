@@ -17,7 +17,7 @@
 - **Programming:** C, C++, Java, Python, PHP  
 - **AI & ML:** Neural Networks, PyTorch, TensorFlow  
 - **Cyber Security:**  
-  - CTF problem solving (Reverse, Crypto, Web basics)  
+  - CTF problem solving ( Crypto, Web basics)  
   - Linux security fundamentals  
   - Understanding of vulnerabilities and exploitation concepts  
 - **Web & Backend:** Flask, PHP  
